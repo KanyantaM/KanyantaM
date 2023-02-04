@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KanyantaM
-- 👀 I’m interested in pretty much anything techy
-- 🌱 I’m currently learning c++ with a little bit of machine learning in Python 3
-- 💞️ I’m looking to collaborate on any project involving c++ or Machine learning 
+- 👀 I’m interested in mobile app development, C++, and MachineLearning. I also like a good chess game.
+- 🌱 I’m currently learning flutter, and Kotline for my app development. Also I am into C++
+- 💞️ I’m looking to collaborate on complete flutter and kotlin apps.
 - 📫 How to reach me Check out Kanyanta M. Makasa (@Its_Kanyanta): https://twitter.com/Its_Kanyanta
 
 <!---
