@@ -10,6 +10,21 @@ Welcome to my GitHub profile! I'm passionate about mobile app development, C++, 
 
 ## 📊 GitHub Stats
 ![KanyantaM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanyantaM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanyantaM&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KanyantaM&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanyantaM&theme=radical)
+
+## 💻 Coding Activity
+[![KanyantaM's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KanyantaM&theme=radical)](https://wakatime.com/@KanyantaM)
+
+## 📈 Contribution Graph
+![KanyantaM's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KanyantaM&theme=react-dark&area=true)
+
+## 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔗 Connect with Me
 [![Twitter Badge](https://img.shields.io/badge/-@Its_Kanyanta-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Its_Kanyanta)
