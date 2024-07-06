@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @KanyantaM
-- 👀 I’m interested in mobile app development, C++, and MachineLearning. I also like a good chess game.
-- 🌱 I’m currently learning flutter, and Kotline for my app development. I am also into C++
-- 💞️ I’m looking to collaborate on complete flutter and kotlin apps.
-- 📫 How to reach me Check out Kanyanta M. Makasa (@Its_Kanyanta): https://twitter.com/Its_Kanyanta
+# 👋 Hi, I’m Kanyanta M. Makasa (@KanyantaM)
+
+Welcome to my GitHub profile! I'm passionate about mobile app development, C++, and machine learning. I also enjoy a good chess game.
+
+## 🚀 About Me
+- 👀 I’m deeply interested in **mobile app development**, **C++**, and **Machine Learning**.
+- 🌱 I’m currently learning **Flutter** and **Kotlin** for my app development projects, and I'm continually improving my **C++** skills.
+- 💞️ I’m looking to collaborate on **complete Flutter and Kotlin apps**. If you have an exciting project, let's connect!
+- 📫 You can reach me on [Twitter](https://twitter.com/Its_Kanyanta). Feel free to check out my updates and connect with me there.
+
+## 📊 GitHub Stats
+![KanyantaM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanyantaM&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![Twitter Badge](https://img.shields.io/badge/-@Its_Kanyanta-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Its_Kanyanta)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanyanta-makasa/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KanyantaM)
 
 <!---
 KanyantaM/KanyantaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
