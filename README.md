@@ -10,24 +10,15 @@ Welcome to my GitHub profile! I'm passionate about mobile app development, C++, 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanyantaM&show_icons=true&theme=radical" alt="KanyantaM's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyantaM&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyantaM&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 💻 Coding Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KanyantaM&theme=radical" alt="KanyantaM's Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KanyantaM&show_icons=true&theme=radical&hide_border=true" alt="KanyantaM's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyantaM&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyantaM&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=KanyantaM&theme=react-dark&area=true" alt="KanyantaM's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KanyantaM&theme=react-dark&area=true&hide_border=true" alt="KanyantaM's Contribution Graph" height="180"/>
 </div>
-
-## 📊 Weekly Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🔗 Connect with Me
 <div align="center">
