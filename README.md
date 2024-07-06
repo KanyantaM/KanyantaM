@@ -9,27 +9,38 @@ Welcome to my GitHub profile! I'm passionate about mobile app development, C++, 
 - 📫 You can reach me on [Twitter](https://twitter.com/Its_Kanyanta). Feel free to check out my updates and connect with me there.
 
 ## 📊 GitHub Stats
-![KanyantaM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanyantaM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanyantaM&layout=compact&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KanyantaM&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanyantaM&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanyantaM&show_icons=true&theme=radical" alt="KanyantaM's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyantaM&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyantaM&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## 💻 Coding Activity
-[![KanyantaM's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KanyantaM&theme=radical)](https://wakatime.com/@KanyantaM)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KanyantaM&theme=radical" alt="KanyantaM's Wakatime Stats" />
+</div>
 
 ## 📈 Contribution Graph
-![KanyantaM's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KanyantaM&theme=react-dark&area=true)
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=KanyantaM&theme=react-dark&area=true" alt="KanyantaM's Contribution Graph" />
+</div>
 
 ## 📊 Weekly Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ## 🔗 Connect with Me
-[![Twitter Badge](https://img.shields.io/badge/-@Its_Kanyanta-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Its_Kanyanta)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanyanta-makasa/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KanyantaM)
+<div align="center">
+  <a href="https://twitter.com/Its_Kanyanta">
+    <img src="https://img.shields.io/badge/-@Its_Kanyanta-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanyanta-makasa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/KanyantaM">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</div>
 
 <!---
 KanyantaM/KanyantaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
