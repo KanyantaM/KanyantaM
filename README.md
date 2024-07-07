@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about mobile app development, C++, 
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KanyantaM&theme=react-dark&area=true&hide_border=true" alt="KanyantaM's Contribution Graph" height="180"/>
+  <img src="https://github-readme-stats.cyclic.app/graph?username=KanyantaM&theme=react-dark&area=true&hide_border=true" alt="KanyantaM's Contribution Graph" height="180"/>
 </div>
 
 ## 🔗 Connect with Me
