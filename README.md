@@ -1,12 +1,13 @@
 # 👋 Hi, I’m Kanyanta M. Makasa (@KanyantaM)
 
-Welcome to my GitHub profile! I'm passionate about mobile app development, C++, and machine learning. I also enjoy a good chess game.
+Welcome to my GitHub profile! I'm a dedicated software developer with a strong focus on **Flutter**, **Django**, and **machine learning**. I thrive on tackling a wide array of projects, particularly those that drive commercial success and contribute to impactful open-source initiatives aimed at improving people's lives through technology.
 
 ## 🚀 About Me
-- 👀 I’m deeply interested in **mobile app development**, **C++**, and **Machine Learning**.
-- 🌱 I’m currently learning **Flutter** and **Kotlin** for my app development projects, and I'm continually improving my **C++** skills.
-- 💞️ I’m looking to collaborate on **complete Flutter and Kotlin apps**. If you have an exciting project, let's connect!
-- 📫 You can reach me on [Twitter](https://twitter.com/Its_Kanyanta). Feel free to check out my updates and connect with me there.
+
+- **Interests:** Mobile app development with **Flutter**, web development using **Django**, and exploring the vast potential of **machine learning**.
+- **Continuous Learning:** I am constantly enhancing my skills in **Flutter** and **Kotlin** for app development. Additionally, I have a robust foundation in **C++**, **Python**, and **Matlab**, which I utilize extensively in my role as a power electrical engineer.
+- **Collaboration:** I am eager to collaborate on a diverse range of projects, especially those with commercial viability and significant societal impact. Please note that I take on software projects exclusively on a remote basis.
+- **Professionalism:** My commitment to hard work and discipline ensures that I am a reliable and valuable contributor to any project I undertake.
 
 ## 🛠️ Technologies & Tools
 
