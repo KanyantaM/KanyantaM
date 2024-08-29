@@ -60,10 +60,12 @@ An app that allows users to find nearby garages and make appointments for specif
         <tr>
             <td><b>Role Selection Screen</b></td>
             <td><b>User Login</b></td>
+            <td><b>Appointment Screen</b></td>
         </tr>
         <tr>
             <td><img src="project_images/garage_finder/splash_screen.jpg" alt="role selection screen" width="250"></td>
             <td><img src="project_images/garage_finder/login_view.jpg" alt="login screen" width="250"></td>
+            <td><img src="project_images/garage_finder/appoinmtents_view.jpg" alt="appointments" width="250"></td>
         </tr>
     </table>
 </div>
