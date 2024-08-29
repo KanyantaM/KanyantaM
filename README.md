@@ -24,119 +24,159 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a strong f
 
 ## 📱 Mobile Apps I have worked on
 
+---
+
 ### Client Projects
+
+---
 
 #### 1. Court Craze (Complete)
 
-A flutter app with various api's to perform crud operations that allows it's users to view live NBA results, standindgs team news and more
+A Flutter app with various APIs to perform CRUD operations, allowing users to view live NBA results, standings, team news, and more.
 
-##### Video Updates from official NBA channel
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Video Updates from official NBA channel</b></td>
+            <td><b>Side Bar for easy Navigation</b></td>
+            <td><b>Live Score results</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/court_craze/video_veiw.jpg" alt="video_updates" width="250"></td>
+            <td><img src="project_images/court_craze/side_bar.jpg" alt="side bar" width="250"></td>
+            <td><img src="project_images/court_craze/results_view.jpg" alt="live scores" width="250"></td>
+        </tr>
+    </table>
+</div>
 
-![video_updates](project_images/court_craze/video_veiw.jpg)
+---
 
-##### Side Bar for easy Navigation
+#### 2. Garage Finder (Under Development)
 
-![side bar](project_images/court_craze/side_bar.jpg)
+An app that allows users to find nearby garages and make appointments for specific timeslots. The app utilizes a Supabase backend.
 
-##### Live Score results
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Role Selection Screen</b></td>
+            <td><b>User Login</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/garage_finder/splash_screen.jpg" alt="role selection screen" width="250"></td>
+            <td><img src="project_images/garage_finder/login_view.jpg" alt="login screen" width="250"></td>
+        </tr>
+    </table>
+</div>
 
-![live scores](project_images/court_craze/results_view.jpg)
-
-#### 2. Garage Finder (Under development)
-
-An app that allows users to find nearby garages and make appointments for specific timeslots. The app utilizes a Supa Base backend.
-
-##### Role Selection Screen
-
-![role selection screen](project_images/garage_finder/splash_screen.jpg)
-
-##### User Login
-
-![login screen](project_images/garage_finder/login_view.jpg)
+---
 
 #### 3. Gene App (Under Development)
 
-This is an app that utilizes bio-informatics tecnology allowing the user to find particular SNP's and or Phenotypes within their DNA. One of my favourite projects of yet 🧬😁
+An app that utilizes bioinformatics technology to allow users to find particular SNPs or phenotypes within their DNA. One of my favorite projects yet 🧬😁
 
-##### Home view
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Home View</b></td>
+            <td><b>Genetic Info Search History</b></td>
+            <td><b>User Profile/Settings</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/gene_app/home_view.jpg" alt="home screen" width="250"></td>
+            <td><img src="project_images/gene_app/history_view.jpg" alt="search history screen" width="250"></td>
+            <td><img src="project_images/gene_app/profile_view.jpg" alt="settings/profile screen" width="250"></td>
+        </tr>
+    </table>
+</div>
 
-![home screen](project_images/gene_app/home_view.jpg)
-
-##### Genetic Info Search History
-
-![search history screen](project_images/gene_app/history_view.jpg)
-
-##### User Profile/Settings
-
-![settings/profile screen](project_images/gene_app/profile_view.jpg)
+---
 
 #### 4. Salon Booking App (Completed)
 
-This project allows salon owners to create salons and for customers to make appointments at the salons
+This project allows salon owners to create salons, and customers to make appointments at the salons.
 
-##### Home View
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Home View</b></td>
+            <td><b>Google Map Integration</b></td>
+            <td><b>Service Selection</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/salon_booking_app/home_view.jpg" alt="home screen" width="250"></td>
+            <td><img src="project_images/salon_booking_app/map_view.jpg" alt="map screen" width="250"></td>
+            <td><img src="project_images/salon_booking_app/purchase_view.jpg" alt="service selection" width="250"></td>
+        </tr>
+        <tr>
+            <td><b>Salon Owner Schedule Settings</b></td>
+            <td><b>Booking View</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/salon_booking_app/calendar_setting_view.jpg" alt="home screen" width="250"></td>
+            <td><img src="project_images/salon_booking_app/booking_view.jpg" alt="booking screen" width="250"></td>
+        </tr>
+    </table>
+</div>
 
-![home screen](project_images/salon_booking_app/home_view.jpg)
-
-##### Google Map Intergration
-
-![map screen](project_images/salon_booking_app/map_view.jpg)
-
-##### Service Selection
-
-![service selection](project_images/salon_booking_app/purchase_view.jpg)
-
-##### Salon Owner Schedule Settings
-
-![home screen](project_images/salon_booking_app/calendar_setting_view.jpg)
-
-##### Booking View
-
-![home screen](project_images/salon_booking_app/booking_view.jpg)
+---
 
 ### Personal Projects
 
-These are projects I have built that I feel are cool or solve a problem
+---
+
+These are projects I have built that I feel are cool or solve a problem.
+
+---
 
 #### 1. Local Food Delivery App (Under Development)
 
-This is an app that I intend to compete with my countries main food delivery app Yango Deli. It uses flutter flavours to create the different app versions under the same code base. Bloc for statemanagement, and a firebase backend
+This app is intended to compete with my country's main food delivery app, Yango Deli. It uses Flutter flavors to create different app versions under the same code base, BLoC for state management, and a Firebase backend.
 
-##### Active Orders
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Active Orders</b></td>
+            <td><b>Order History</b></td>
+            <td><b>Order Details</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/delivery_app/active_orders.jpg" alt="Active orders" width="250"></td>
+            <td><img src="project_images/delivery_app/order_history.jpg" alt="Order History" width="250"></td>
+            <td><img src="project_images/delivery_app/order_details.jpg" alt="Order Details" width="250"></td>
+        </tr>
+    </table>
+</div>
 
-![Active orders](project_images/delivery_app/active_orders.jpg)
+---
 
-##### Order History
+#### 2. ReviZa (Completed - Yet to be deployed)
 
-![Order Detials](project_images/delivery_app/order_history.jpg)
+A study material sharing app with a Django Rest Framework backend, BLoC for state management, and Hive for local storage.
 
-##### Order Details
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Home</b></td>
+            <td><b>Material</b></td>
+            <td><b>Downloads</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/Reviza/reviza_home.jpg" alt="Home" width="250"></td>
+            <td><img src="project_images/Reviza/material_view.jpg" alt="Material" width="250"></td>
+            <td><img src="project_images/Reviza/downloads_view.jpg" alt="Downloads" width="250"></td>
+        </tr>
+        <tr>
+            <td><b>Upload Material</b></td>
+            <td><b>Search Courses</b></td>
+        </tr>
+        <tr>
+            <td><img src="project_images/Reviza/upload_material_view.jpg" alt="upload material" width="250"></td>
+            <td><img src="project_images/Reviza/search_course_view.jpg" alt="Search" width="250"></td>
+        </tr>
+    </table>
+</div>
 
-![Order Detials](project_images/delivery_app/order_details.jpg)
-
-#### 2. ReviZa (Completed -  Yet to be deployed)
-
-A study material sharing app with a Django Rest Framework Backend, and BloC for statemanagement, and lastly Hive for local storage
-
-##### Home
-
-![Home](project_images/Reviza/reviza_home.jpg)
-
-##### Material
-
-![Material](project_images/Reviza/material_view.jpg)
-
-##### Downloads
-
-![Downloands](project_images/Reviza/downloads_view.jpg)
-
-##### Upload Material
-
-![upload material](project_images/Reviza/upload_material_view.jpg)
-
-##### Search Courses
-
-![Search](project_images/Reviza/search_course_view.jpg)
+---
 
 ## 📊 GitHub Stats
 
