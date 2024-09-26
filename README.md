@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kanyanta M. Makasa (@KanyantaM)
+I’m Kanyanta M. Makasa (@KanyantaM)
 
 Welcome to my GitHub profile! I'm a dedicated software developer with a strong focus on **Flutter**, **Django**, and **machine learning**. I thrive on tackling a wide array of projects, particularly those that drive commercial success and contribute to impactful open-source initiatives aimed at improving people's lives through technology.
 
