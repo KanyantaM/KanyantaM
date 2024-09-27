@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a strong f
 ### Currently Learning
 
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## 📱 Mobile Apps I have worked on
 
