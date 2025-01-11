@@ -117,10 +117,7 @@ A **Django**-powered study material sharing platform with local storage optimiza
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyantaM&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
-## 🐍 GitHub Contribution Snake
-![GitHub Snake Animation](https://KanyantaM.github.io/KanyantaM/dist/github-contribution-grid-snake.svg)
-
-
+![Snake animation](https://github.com/KanyantaM/KanyantaM/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
