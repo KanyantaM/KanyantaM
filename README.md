@@ -119,6 +119,7 @@ A **Django**-powered study material sharing platform with local storage optimiza
 
 [![Snake animation](https://github.com/KanyantaM/KanyantaM/blob/output/github-contribution-grid-snake.svg)]()
 
+
 ---
 
 ## **🔗 Connect with Me**
