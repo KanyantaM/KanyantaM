@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Kanyanta M. Makasa &animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kanyanta%20M.%20Makasa&desc=My%20goal%20is%20to%20deliver%20solutions%20that%20not%20only%20meet%20technical%20requirements%20but%20also%20drive%20meaningful%20change.&fontSize=90)
 
-# **Kanyanta M. Makasa (@KanyantaM)**
-
-Welcome to my GitHub profile! I am a passionate software developer with a focus on **Flutter**, **Django**, and **machine learning**, combining technical expertise with an eye for impactful and commercially viable projects. My goal is to deliver solutions that not only meet technical requirements but also drive meaningful change.
-
----
 
 ## **👨‍💻 About Me**
 
