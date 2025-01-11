@@ -11,8 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bloc" width="45" height="45" />
   </p>
 
-
-<div style="text-align: center;">
+  <div style="text-align: center;">
     <img src="https://media.giphy.com/media/4zrDAO6M774xIdkknD/giphy.gif?cid=790b7611dcuxmfln580q22nwls7f69a3subkj6o9dxhbpcs1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Funny GIF"/>
 </div>
 
@@ -52,17 +51,6 @@ hobbies:
 
 ---
 
-## **🌟 Reviews & Contributions**
-
-### **Community Contributions**
-- **pawa_pay_flutter**: Developed a package to simplify mobile money payments integration for Flutter apps in Africa.
-- Regular contributor to open-source projects, focusing on improving developer tools and application performance.
-
-### **Client Feedback**
-- **"Kanyanta's attention to detail and commitment to quality are unparalleled. He delivered beyond our expectations."** – Client, Salon Booking App.
-- **"His innovative approach and ability to adapt quickly made the Garage Finder app development process seamless."** – Client, Garage Finder.
-
----
 
 ## **📊 GitHub Stats**
 
