@@ -1,22 +1,5 @@
 [![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Kanyanta%20M.%20Makasa&fontSize=60&fontAlignY=35&desc=Delivering%20solutions%20that%20drive%20meaningful%20change&descAlign=70&descAlignY=70&animation=fadeIn)]()
 
-<div align="center">
-  <h2>🌐 &nbsp;Connect with Me</h2>
-  <a href="https://twitter.com/Its_Kanyanta">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45" />
-  </a>
-  <a href="https://www.linkedin.com/in/kanyanta-makasa/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
-  </a>
-  <a href="https://github.com/KanyantaM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
-  </a>
-</div>
-
-
-
-<div align="center">
-  <h2>💻 &nbsp;Tools and Technologies I have worked with</h2>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" />
@@ -27,7 +10,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bloc" width="45" height="45" />
   </p>
-</div>
 
 
 <div style="text-align: center;">
@@ -94,11 +76,10 @@ hobbies:
 
 ---
 
-## **🔗 Connect with Me**
-
 <div align="center">
-  <a href="https://twitter.com/Its_Kanyanta"><img src="https://img.shields.io/badge/-@Its_Kanyanta-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge" /></a>
-  <a href="https://www.linkedin.com/in/kanyanta-makasa/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://github.com/KanyantaM"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+  <h2>Contacts</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/kanyanta-makasa/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a><a href="mailto:kanyantamakasa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40" /></a>
+  </p>
 </div>
 
