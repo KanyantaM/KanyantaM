@@ -1,4 +1,6 @@
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Kanyanta M. Makasa &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 # **Kanyanta M. Makasa (@KanyantaM)**
 
@@ -62,6 +64,18 @@ Aiming to redefine food delivery in my region, this app leverages **Flutter flav
 
 #### **ReviZa** *(Completed, Deployment Pending)*  
 A **Django**-powered study material sharing platform with local storage optimization and a user-friendly interface.
+
+---
+
+## **🌟 Reviews & Contributions**
+
+### **Community Contributions**
+- **pawa_pay_flutter**: Developed a package to simplify mobile money payments integration for Flutter apps in Africa.
+- Regular contributor to open-source projects, focusing on improving developer tools and application performance.
+
+### **Client Feedback**
+- **"Kanyanta's attention to detail and commitment to quality are unparalleled. He delivered beyond our expectations."** – Client, Salon Booking App.
+- **"His innovative approach and ability to adapt quickly made the Garage Finder app development process seamless."** – Client, Garage Finder.
 
 ---
 
