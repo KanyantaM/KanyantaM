@@ -67,33 +67,6 @@ hobbies:
   - "Playing Soccer"
 
 ```
----
-
-## **📱 Featured Projects**
-
-### **Client Projects**
-
-#### **Court Craze**  
-A comprehensive **Flutter** app that delivers live NBA results, team standings, news updates, and more.
-
-#### **Garage Finder** *(In Development)*  
-Enabling users to locate nearby garages, book appointments, and manage vehicle service schedules, leveraging a Supabase backend.
-
-#### **Gene App** *(In Development)*  
-An innovative bioinformatics app for identifying genetic markers, designed to make DNA analysis accessible and user-friendly.
-
-#### **Salon Booking App** *(Completed)*  
-A booking platform for salon services, integrating Google Maps for location-based appointments.
-
----
-
-### **Personal Projects**
-
-#### **Local Food Delivery App** *(In Development)*  
-Aiming to redefine food delivery in my region, this app leverages **Flutter flavors**, **Firebase**, and **BLoC** for a seamless experience.
-
-#### **ReviZa** *(Completed, Deployment Pending)*  
-A **Django**-powered study material sharing platform with local storage optimization and a user-friendly interface.
 
 ---
 
@@ -118,8 +91,6 @@ A **Django**-powered study material sharing platform with local storage optimiza
 </div>
 
 [![Snake animation](https://kanyantam.github.io/KanyantaM/github-contribution-grid-snake.svg)]()
-
-
 
 ---
 
